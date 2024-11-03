@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+:root {
+  --brand-color-light:#60A5FA;
+  --brand-color-dark:#1D4ED8;
+  --gb-color:#0f172a;
+  --stroke-color:#1E293b;
+  --text-color-primary:#F1F5F9;
+  --texr-color-secundary: #cbd5e1;
+}
+body {
+  color: var(--text-color-primary);
+  background-color: var(--gb-color);
+}
